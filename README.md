@@ -16,7 +16,7 @@
       <td><img src="https://img.shields.io/badge/CSS-11111b?style=for-the-badge&logo=css&logoColor=cba6f7" alt="CSS"/></td>
       <td><img src="https://img.shields.io/badge/Vite-11111b?style=for-the-badge&logo=vite&logoColor=cba6f7" alt="Vite"/></td>
       <td><img src="https://img.shields.io/badge/SolidJS-11111b?style=for-the-badge&logo=solid&logoColor=cba6f7" alt="SolidJS"/></td>
-      <td><img src="https://img.shields.io/badge/React-11111b?style=for-the-badge&logo=react&logoColor=cba6f7" alt="React"/></td>
+      <td><img src="https://img.shields.io/badge/GTK-11111b?style=for-the-badge&logo=gtk&logoColor=cba6f7" alt="GTK"/></td>
       <td><img src="https://img.shields.io/badge/Nushell-11111b?style=for-the-badge&logo=nushell&logoColor=cba6f7" alt="Nushell"/></td>
     </tr>
     <tr>
@@ -26,14 +26,6 @@
       <td><img src="https://img.shields.io/badge/Arch-11111b?style=for-the-badge&logo=arch-linux&logoColor=cba6f7" alt="Arch"/></td>
       <td><img src="https://img.shields.io/badge/Fedora-11111b?style=for-the-badge&logo=fedora&logoColor=cba6f7" alt="Fedora"/></td>
       <td><img src="https://img.shields.io/badge/Git-11111b?style=for-the-badge&logo=git&logoColor=cba6f7" alt="Git"/></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td><img src="https://img.shields.io/badge/GitHub-11111b?style=for-the-badge&logo=github&logoColor=cba6f7" alt="GitHub"/></td>
-      <td><img src="https://img.shields.io/badge/GTK-11111b?style=for-the-badge&logo=gtk&logoColor=cba6f7" alt="GTK"/></td>
-      <td></td>
-      <td></td>
     </tr>
   </table>
 </div>
